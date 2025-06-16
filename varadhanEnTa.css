@@ -154,7 +154,16 @@ img {
 #downloadBtn:active {
     background-color: #ff3300; /* Even darker on click */
     transform: scale(1); /* Reset the size when clicked */
-} */
+} 
+
+.germanyLogo{
+    display: flex;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    justify-self: center;
+    align-self: center;
+}
 
 
 
